@@ -4,7 +4,7 @@
 class RteCli < Formula
   desc 'RTE CLI'
   homepage ''
-  url 'https://github.com/sunshinexcode/homebrew-rte-cli/releases/download/v0.0.1/rte-cli-macos-x64.tar.gz'
+  url 'https://github.com/sunshinexcode/rte-cli/releases/download/v0.0.1/rte-cli-macos-x64.tar.gz'
   sha256 '92098482dea357a68ce3a95a99e6d2aa4da5f6d7d16df8eddcb576207e13cb10'
   license 'MIT'
 
