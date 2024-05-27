@@ -5,7 +5,7 @@ class RteCli < Formula
   desc 'RTE CLI'
   homepage ''
   url 'https://github.com/sunshinexcode/homebrew-rte-cli/releases/download/v0.0.1/rte-cli-macos-x64.tar.gz'
-  sha256 '92098482dea357a68ce3a95a99e6d2aa4da5f6d7d16df8eddcb576207e13cb10'
+  sha256 'dc7a9f8ae9cebd597419179d205185cbbfd593c2a94667ffd4f4d6ca9d439888'
   license 'MIT'
 
   # depends_on "cmake" => :build
