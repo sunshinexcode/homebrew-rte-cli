@@ -1,11 +1,11 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class BuzzCli < Formula
+class RteCli < Formula
   desc 'RTE CLI'
   homepage ''
-  url 'https://github.com/sunshinexcode/homebrew-rte-cli/releases/download/v0.0.1/buzz-cli-macos-x64.tar.gz'
-  sha256 '190a295f9f43c0dfcf9dcdc506309cc647e0cd2c3561b5c80f9c2b857bb46618'
+  url 'https://github.com/sunshinexcode/homebrew-rte-cli/releases/download/v0.0.1/rte-cli-macos-x64.tar.gz'
+  sha256 '92098482dea357a68ce3a95a99e6d2aa4da5f6d7d16df8eddcb576207e13cb10'
   license 'MIT'
 
   # depends_on "cmake" => :build
