@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class RteCli < Formula
+class RteCliAT002 < Formula
   desc 'RTE CLI'
   homepage ''
   url 'https://github.com/sunshinexcode/homebrew-rte-cli/releases/download/v0.0.3/rte-cli-macos-x64.tar.gz'
