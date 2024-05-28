@@ -1,11 +1,11 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class RteCliAT002 < Formula
+class RteCliAT003 < Formula
   desc 'RTE CLI'
   homepage ''
   url 'https://github.com/sunshinexcode/homebrew-rte-cli/releases/download/v0.0.3/rte-cli-macos-x64.tar.gz'
-  sha256 '2b4f6e9a1d00327438f4920bbaf7d0fde7c233e3cfee1c030d89066bcbfc37be'
+  sha256 '2021474a2b492cbd254972c6a627025a2ea7c853df29cd7adb4676e4e55bb210'
   license 'MIT'
 
   # depends_on "cmake" => :build
